@@ -18,6 +18,7 @@
 # Model files
 !model/
 !model/**
+model/old/
 
 # Scripts (only specific files)
 !script/
