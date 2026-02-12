@@ -15,7 +15,7 @@ A production-grade conveyor belt quality inspection system using computer vision
 [![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://youtu.be/JA_5Sh8w96o?si=3z7rx-KOIAFZf6KR)
 
 **Links:**
-- **Training (Kaggle)**: [soon](#)
+- **Training (Kaggle)**: [Ron 88 Production Training](https://www.kaggle.com/code/jihadakbr/ron88-prod-training)
 - **Dataset (Kaggle)**: [Water Bottle Defect-Level Detection Dataset](https://www.kaggle.com/datasets/jihadakbr/water-bottle-defect-level-detection-dataset)
 
 > The dataset includes 1,500 annotated images with CVAT annotations. Feel free to use it for your own projects!
