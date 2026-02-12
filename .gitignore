@@ -1,0 +1,29 @@
+# Ignore everything by default
+*
+*/
+
+# Allow specific directories and files
+!.gitignore
+!README.md
+
+# Arduino
+!arduino/
+!arduino/ron88_servo_control/
+!arduino/ron88_servo_control/**
+
+# Inference results
+!inference_result/
+!inference_result/**
+
+# Model files
+!model/
+!model/**
+
+# Scripts (only specific files)
+!script/
+!script/capture_dataset.py
+!script/ron88_defect_production.py
+
+# Streamlit dashboard
+!streamlit/
+!streamlit/**

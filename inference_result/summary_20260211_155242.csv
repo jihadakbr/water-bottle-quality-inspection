@@ -1,0 +1,14 @@
+metric,value
+session_date,2026-02-11 15:52:42
+session_duration_s,1030
+total_inspected,15
+good_ron88,7
+rejected,8
+quality_rate_%,46.7
+wrong_brand,3
+defect_low_fill,3
+defect_no_cap,1
+defect_loose_cap,1
+defect_debris,1
+defect_label_damage,3
+multi_defect_bottles,2
